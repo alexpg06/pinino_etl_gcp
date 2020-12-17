@@ -12,7 +12,9 @@ def print_hi(name):
 
     # Homework
     # crear un repositorio en Git, clonar y crear el proyecto Pinino_etl_gcp
+    # - Repositorio creado, clonado y proyecto creado en pycharm
     # Crear el sistema que se conecte al API de metrobus CDMX (request)
+    # - Por iniciar
     # Looking for Pandas (how it works)
 
 # Press the green button in the gutter to run the script.
